@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Hummingbird band="Wilco">
+    <verse n="1">
+        <line n="1">His goal in life was to be an echo</line>
+        <line n="2">Riding alone, town after town, toll after toll</line>
+        <line n="3">A fixed bayonet through the great southwest to forget her</line>
+        <line n="4">She appears in his dreams</line>
+        <line n="5">But in his car and in his arms</line>
+        <line n="6">A dream can mean anything</line>
+        <line n="7">A cheap sunset on a television set can upset her</line>
+        <line n="8">But he never could</line>
+    </verse>
+    <chorus n="1">
+        <line n="9">Remember to remember me</line>
+        <line n="10">Standing still in your past</line>
+        <line n="11">Floating fast like a hummingbird</line>
+    </chorus>
+    <verse n="2">
+        <line n="12">His goal in life was to be an echo</line>
+        <line n="13">The type of sound that floats around</line>
+        <line n="14">And then back down like a feather</line>
+        <line n="15">But in the deep chrome canyons of the loudest Manhattans</line>
+        <line n="16">No one could hear him</line>
+        <line n="17">Or anything</line>
+        <line n="18">So he slept on a mountain</line>
+        <line n="19">In a sleeping bag underneath the stars</line>
+        <line n="20">He would lie awake and count them</line>
+        <line n="21">And the gray fountain spray of the great Milky Way</line>
+        <line n="22">Would never let him die alone</line>
+    </verse>
+    <chorus n="2">
+        <line n="23">Remember to remember me</line>
+        <line n="24">Standing still in your past</line>
+        <line n="25">Floating fast like a hummingbird</line>
+    </chorus>
+    <chorus n="3">
+        <line n="26">Remember to remember me</line>
+        <line n="27">Standing still in your past</line>
+        <line n="28">Floating fast like a hummingbird</line>
+    </chorus>
+    <outro>
+        <line n="29">A hummingbird</line>
+        <line n="30">A hummingbird</line>
+    </outro>
+</Hummingbird>
+
+<!--This song "Hummingbird", by the band Wilco, is one of my favorites. It holds significance from my childhood and I appreciate how simple lyrics can carry so much weight. My markups and attributes were mainly focused on highlighting the structure of the song, treating it as a poem by splitting it up line-by-line.-->
