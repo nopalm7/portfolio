@@ -1,19 +1,59 @@
 body {
 
     /*background:SomeKindOfBlue*/
-    background: #79a6b6
+    background: #79a6b6;
+    font-family: Source, Helvetica, sans-pro;
+    
 }
 
 div.side-by-side {
-    display: flex;
-}
 
-img {
-    width: 59%;
-    max-width: 500px;
+    display: flex;
+    
 }
 
 nav {
+
     background-color:grey;
+    
 }
+
+section.gallery {
+
+    background:bisque;
+    line-height:1.5em;
+    margin-left: 5em;
+    
+}
+
+section.flex {
+    
+    display:flex;
+    background-color:grey;
+    
+}
+
+figure.photo {
+    
+    background-color:lavender;
+    flex:2
+
+}
+
+figure.widephoto { 
+
+    background-color:lavender;
+    margin-left:3em;
+    flex:3
+}
+
+img {
+
+    width:80%;
+    
+}
+
+
+
+
 
