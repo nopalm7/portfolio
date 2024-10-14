@@ -15,7 +15,12 @@ div.side-by-side {
 nav {
 
     background-color:grey;
+    line-height:5em;
     
+}
+
+li {
+    height:1.5em;
 }
 
 section.gallery {
@@ -47,9 +52,15 @@ figure.widephoto {
     flex:3
 }
 
+figure.photobird { 
+
+    margin-left:3em;
+    flex:3
+}
+
 img {
 
-    width:80%;
+    width:25vw;
     
 }
 
