@@ -64,6 +64,15 @@ figure.photo {
     
 }
 
+.bottom-paragraph {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+        }
+
 figure.widephoto { 
 
     background-color:lavender;
